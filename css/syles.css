@@ -22,12 +22,14 @@
 
 .navbar-001 .dot-pretitle {
     font-size: 11px;
+    font-size: .5vw;
     margin-bottom: 0;
     text-align: left;
 }
 
 .navbar-001 .dot-title {
     font-size: 12px;
+    font-size: .7vw;
     text-align: left;
     font-weight: bold;
 }
@@ -39,17 +41,19 @@
 
 .navbar-001 .slider-description {
     font-size: 25px;
+    font-size: 1vw;
     margin: 15px 0 20px;
 }
-
+dot-pretitle
 .navbar-001 .slider-title {
-    font-size: 38px;
+    font-size: 30px;
+    font-size: 3vw;
     font-family: Arial;
-    line-height: 44px;
+    line-height: 3vw;
 }
 
 .navbar-001 .carousel-indicators li {
-    width: 240px;
+    width: 23%;
     height: 67px;
     border: none;
     background-color: rgba(0, 0, 0, 0.32);
